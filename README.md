@@ -8,7 +8,7 @@ Build as a portfolio project to showcase industry best practices in data enginee
 ---
 
 ## 📌 Project Requirements
----
+
 ### 🏗️ Building Data Warehouse
 
 #### 🎯 Objective
@@ -19,7 +19,7 @@ Develop a Modern Data Warehouse in SQL Server using industry best practices to i
 - **Data Integration**: Combine data from different sources.
 - **Scope**: Concentrate on the latest dataset. No need for historization of data.
 - **Documentation**: create a clear documentation for the analytics team and business stakeholders
----
+
 ### 📊 BI: Analytics and Reporting
 
 #### 🎯 Objective
@@ -28,9 +28,12 @@ Develop SQL-based analytics to deliver detailed insights into:
 -**Product Performance**
 -**Sales Trends**
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
+
 ---
+
 ## 📄 License
 This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
+
 ---
 ## 👨‍💻 About Me
 Hi! I'm **Sanidhya Madhav Shukla**, a passionate Data Analyst, someone who loves working with data and making it easier for others to understand insights given by data.
