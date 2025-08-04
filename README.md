@@ -8,7 +8,7 @@ Build as a portfolio project to showcase industry best practices in data enginee
 ---
 
 ## 📌 Project Requirements
-
+---
 ### 🏗️ Building Data Warehouse
 
 #### 🎯 Objective
