@@ -10,7 +10,7 @@ Build as a portfolio project to showcase industry best practices in data enginee
 ## 📌 Project Requirements
 
 ### 🏗️ Building Data Warehouse
-
+--
 #### 🎯 Objective
 Develop a Modern Data Warehouse in SQL Server using industry best practices to integrate sales data and enabling analytical reporting and decision making. 
 #### 📐 Specifications
