@@ -3,6 +3,7 @@
 Quality Checks
 ===============================================================================
 Script Purpose:
+    The purpose of this script is to provide a list of Quality Checks to be performed on silver-layer data.
 ===============================================================================
 */
 --Checking for Null and Duplicates in Primary Key
