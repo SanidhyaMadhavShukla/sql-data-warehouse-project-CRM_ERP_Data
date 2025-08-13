@@ -3,7 +3,8 @@
 Insert Data into silver Layer Tables (DML Script)
 ------------------------------------
 Script Purpose:
-	This script creates a procedure that inserts data into tables in the 'silver' schema from source, it truncates tables before loading data.
+	This script creates a procedure that inserts data into tables in the 'silver' schema from 'bronze' schema after transforming it, 
+	it truncates tables before loading data.
 
 WARNING:
 	Running this script will Truncate the tables leading to loss of all data stored in them.
