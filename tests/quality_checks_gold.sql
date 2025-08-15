@@ -1,3 +1,11 @@
+/*
+=======================================================================
+Quality Checks
+=======================================================================
+Script Purpose:
+		This script contains all the tests done on the  data while creating and validating
+		gold layer.
+*/
 --Checking for Duplicates in Table
 Select cst_id, count(*) as number_of_records
 from (
@@ -68,4 +76,5 @@ FROM
 	LEFT JOIN gold.dim_customers as dc ON dc.customer_key = fs.customer_key
 WHERE
 	dc.customer_key IS NULL OR
+
 	dp.product_key IS NULL;
